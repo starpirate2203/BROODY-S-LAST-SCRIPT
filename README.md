@@ -20,6 +20,8 @@ pip install pytz
 
 pkg install git
 
+git clone
+
 CONFIGURE NIGHTMODE IN BSGAME
 
 CHAT COMMANDS CREDIT GOES TO ANKIT
