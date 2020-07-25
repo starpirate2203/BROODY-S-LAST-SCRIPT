@@ -20,7 +20,9 @@ pip install pytz
 
 pkg install git
 
-git clone
+git clone https://github.com/yashraj2717/BROODY-S-LAST-SCRIPT
+
+cd into directory and start your server
 
 CONFIGURE NIGHTMODE IN BSGAME
 
